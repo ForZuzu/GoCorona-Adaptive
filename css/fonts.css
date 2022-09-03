@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* @font-face {
+    font-family: "name";
+    src: url(/fonts/Montserrat__font/name.woff2), url(/fonts/Montserrat__font/name.woff);
+    font-display: swap;//Для оптимизации
+    font-style: normal;
+    font-weight: normal;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700;800&family=Rubik:wght@400;700&display=swap");
